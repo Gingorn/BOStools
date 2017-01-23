@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name           LoU BoS
-// @description    Additions to Lord of Ultima: summary, food calculator, recruitment speed calculator, combat calculator and various other features
+// @name           COTG BoS
+// @description    Additions to Crown of the Gods: summary, food calculator, recruitment speed calculator, combat calculator and various other features
 // @namespace      BoS
 // @author         Urthadar
 // @include        http://prodgame*.lordofultima.com/*/index.aspx*
